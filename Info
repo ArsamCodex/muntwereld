@@ -1,0 +1,10 @@
+ArsAPI 
+There are a lot of Exchanges around like
+-	Binance
+-	Kraken
+-	CoinBase
+And to many more.
+Each of this exchnges has own endpoint Restfull .that we can retrieve or get data from API like price of coins , charts , marketcap enzo…
+What I want to do 
+Make a single page application that can handle all of this exchanges , we are not exchang but we show the user price n all info what need , and this infos are coing from native exchanges API .
+I already begin and I have all plan , im going to upload it into github
