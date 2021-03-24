@@ -9,3 +9,7 @@ What I want to do
 Make a single page application that can handle all of this exchanges , we are not exchang but we show the user price n all info what need , and this infos are coing from native exchanges API .
 I already begin and I have all plan , im going to upload it into github
 In the next jump we are be able to sel crypto from banking platforms in Belgium Eurrope and everywhere , 24 to 72 Hours to confirm ,
+
+Hier Exaple of Binance api that show Bitcoin price in usd  https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT
+The design of exchanges are readble and easy to develop , our application is first Rest application , its mean other people can get info from our API ( Live price) -
+Front End  is big probllem for me .
